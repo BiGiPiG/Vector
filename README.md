@@ -1,1 +1,1 @@
-This is my realisation of vector
+Реализация структуры данных vector на языке с++ в рамках курса ПЗРЛ (РТУ МИРЭА)
